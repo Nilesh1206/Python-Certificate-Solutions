@@ -1,5 +1,9 @@
 # Python-Certificate-Solutions
 This is my hand written solution,I just write here required code.
+
+
+
+
 problem 1: Reverse word and Swap Cases
    
    def reverse_words_order_and_swap_cases(sentence):
@@ -9,6 +13,11 @@ problem 1: Reverse word and Swap Cases
        return j.swapcase()
        
        
+
+
+
+
+
 Problem 2: Car boat problem
    
     class Car:
@@ -26,7 +35,15 @@ Problem 2: Car boat problem
         my_string="Boat with the maaximum speed of {} knots"
         return my_string.format(self.speed)
         
- problem 3: Shape classes with Area method
+ 
+ 
+ 
+ 
+
+
+
+
+problem 3: Shape classes with Area method
  
 import math
 import os
@@ -70,6 +87,10 @@ if _name_ == '_main_':
     fptr.close()
     
     
+
+
+
+
 Problem 4:Average Function
        from statistics import mean
        def avg(*num1):
