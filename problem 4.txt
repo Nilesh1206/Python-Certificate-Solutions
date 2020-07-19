@@ -1,0 +1,5 @@
+Problem 4:Average Function 
+
+from statistics import mean 
+def avg(*num1): 
+  return mean(num1)

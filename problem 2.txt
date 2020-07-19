@@ -1,0 +1,16 @@
+Problem 2: Car boat problem
+
+class Car:
+     def __init__(self,speed,unit):
+         self.speed=speed
+         self.unit=unit
+     def__str__(self):
+         my_string="Car with the maximum speed of {} {} "
+         return my_string.format(self.speed,self.unit)
+         
+class Boat:
+def__init__(self,speed):
+    self.speed=speed
+def__str__(self):
+    my_string="Boat with the maaximum speed of {} knots"
+    return my_string.format(self.speed)
